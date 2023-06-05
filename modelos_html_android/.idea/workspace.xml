@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c397474-ce35-4c6d-884f-ad05ed9b843e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/deploymentTargetDropDown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/kaloria/kaloria/I_erc20_bases_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/assets/in/android/ingui/web3j/kaloria_wallet_android/in.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/assets/in/android/ingui/web3j/kaloria_wallet_android/in.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/assets/re/android.ingui.web3j.kaloria_wallet_android.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/assets/re/android.ingui.web3j.kaloria_wallet_android.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/assets/ri/cripto_y_mas_icono_kw.xcf" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/assets/ri/cripto_y_mas_icono_kw.xcf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/java/android/ingui/web3j/kaloria_wallet_android/Kaloria_wallet_android.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/java/android/ingui/web3j/kaloria_wallet_android/Kaloria_wallet_android.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/java/android/ingui/web3j/kaloria_wallet_android/Kaloria_wallet_web.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/java/android/ingui/web3j/kaloria_wallet_android/Kaloria_wallet_web.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/java/innui/web3j/kaloria_wallet/kaloria_wallets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/java/innui/web3j/kaloria_wallet/kaloria_wallets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/res/mipmap-hdpi/cripto_y_mas_icono_kw.png" beforeDir="false" afterPath="$PROJECT_DIR$/../app_kaloria_wallet_android/src/main/res/mipmap-hdpi/cripto_y_mas_icono_kw.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/assets/re/android.innui.web3j.kaloria_web3j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/assets/re/android.innui.web3j.kaloria_web3j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/android/innui/kaloria_web3j/kaloria_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/android/innui/web3j/kaloria_web3j/kaloria_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/Bytes__.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/Bytes__.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/Erc20_bases_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/Erc20_bases_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/gas_precios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/gas_precios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/kaloria/Blockchain_coin_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/kaloria/kaloria/Blockchain_coin_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/kaloria/Direcciones_emails_mapas_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/kaloria/kaloria/Direcciones_emails_mapas_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/kaloria/I_erc20_bases_web3j.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/kaloria/I_erc20_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/kaloria/kaloria/I_erc20_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/kaloria/I_erc20s_kopias_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/kaloria/kaloria/I_erc20s_kopias_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/kaloria/Kalorias_faucets_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/kaloria/kaloria/Kalorias_faucets_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/kaloria/Kalorias_web3j.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/kaloria/kaloria/Kalorias_web3j.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3_transacciones_mapas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/web3_transacciones_mapas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/Direcciones_emails_mapas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/Direcciones_emails_mapas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/I_erc20.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/I_erc20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/I_erc20_bases.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/I_erc20_bases.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/I_erc20s_kopias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/I_erc20s_kopias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/Kalorias.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/Kalorias.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/Kalorias_faucets.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/generated/contracts/Kalorias_faucets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3js.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kaloria_web3j/src/main/java/innui/web3j/web3js.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelos_android/src/main/java/android/innui/modelos_android/cambios/modelos_permanentes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelos_android/src/main/java/android/innui/modelos_android/cambios/modelos_permanentes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelos_android/src/main/java/android/innui/modelos_android/configuraciones/Resources.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelos_android/src/main/java/android/innui/modelos_android/configuraciones/Resources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelos_android/src/main/java/android/innui/modelos_android/configuraciones/iniciales.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelos_android/src/main/java/android/innui/modelos_android/configuraciones/iniciales.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelos_android/src/main/java/innui/formularios/controles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelos_android/src/main/java/innui/formularios/controles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelos_android/src/main/java/innui/formularios/formularios.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelos_android/src/main/java/innui/formularios/formularios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../modelos_android/src/main/java/innui/modelos/comunicaciones/sockets/sslcontext_sin_verificar_hostnames.java" beforeDir="false" afterPath="$PROJECT_DIR$/../modelos_android/src/main/java/innui/modelos/comunicaciones/sockets/sslcontext_sin_verificar_hostnames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inweb/modelos_html/formularios/control_bucle_clave_valor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inweb/modelos_html/formularios/control_bucle_clave_valor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inweb/modelos_html/formularios/procesamiento_plantillas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inweb/modelos_html/formularios/procesamiento_plantillas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/inweb/modelos_html/formularios/web_formularios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/inweb/modelos_html/formularios/web_formularios.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navegador_web/src/main/assets/in/android/ingui/navegador_web_android/in.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../navegador_web/src/main/assets/in/android/ingui/navegador_web_android/in.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navegador_web/src/main/java/android/ingui/navegador_web_android/Navegador_web_android_activity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../navegador_web/src/main/java/android/ingui/navegador_web_android/Navegador_web_android_activity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navegador_web/src/main/java/android/ingui/navegador_web_android/Webview_simpleFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../navegador_web/src/main/java/android/ingui/navegador_web_android/Webview_simpleFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navegador_web/src/main/java/android/ingui/navegador_web_android/Webview_simpleFragment_implementaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/../navegador_web/src/main/java/android/ingui/navegador_web_android/Webview_simpleFragment_implementaciones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navegador_web/src/main/res/layout/navegador_web_activity.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../navegador_web/src/main/res/layout/navegador_web_activity.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../navegador_web/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../navegador_web/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2QnM6acfEMFPrIcO4JRg7dtlVOh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/home/emilio/AndroidStudioProjects/Kaloria_wallet_android/modelos_html_android"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c397474-ce35-4c6d-884f-ad05ed9b843e" name="Changes" comment="" />
+      <created>1685984725946</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685984725946</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
